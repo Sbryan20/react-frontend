@@ -17,7 +17,7 @@ const ProductForm = (props) => {
   } = useContext(ProductContext);
 
   const initialProductState = {
-    _id: null,
+    id: null,
     name: "",
     price: 0,
     expiry_date: null,
@@ -27,6 +27,7 @@ const ProductForm = (props) => {
 
   useEffect(() => {
     if (editProduct) setProductData(editProduct);
+    console.log(editProduct)
   }, [editProduct]);
 
   const updateField = (data, field) => {
@@ -40,7 +41,7 @@ const ProductForm = (props) => {
 
   const _deleteProduct = () => {
     if (editProduct) {
-      deleteProduct(productData._id);
+      deleteProduct(productData.id);
       setProductData(initialProductState);
     }
     setIsVisible(false);

@@ -4,7 +4,6 @@ export class ProductService {
 
      baseUrl = "https://bryant-rest-api.herokuapp.com/api/products/";
    
-    
 
     create(product){
         return axios.post(this.baseUrl+"product/", product).then(res => res.data);
