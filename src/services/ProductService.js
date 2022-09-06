@@ -2,7 +2,7 @@ import axios from "axios";
 
 export class ProductService {
 
-     baseUrl = "https://bryant-rest-api.herokuapp.com/api/products/git";
+     baseUrl = "https://bryant-rest-api.herokuapp.com/api/products/";
    
     
 
