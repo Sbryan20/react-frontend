@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-frontend/static/css/main.69eda509.chunk.css",
+    "main.js": "/react-frontend/static/js/main.b3803e44.chunk.js",
+    "main.js.map": "/react-frontend/static/js/main.b3803e44.chunk.js.map",
+    "runtime-main.js": "/react-frontend/static/js/runtime-main.18924be9.js",
+    "runtime-main.js.map": "/react-frontend/static/js/runtime-main.18924be9.js.map",
+    "static/css/2.90b2f3bf.chunk.css": "/react-frontend/static/css/2.90b2f3bf.chunk.css",
+    "static/js/2.2ed1fd66.chunk.js": "/react-frontend/static/js/2.2ed1fd66.chunk.js",
+    "static/js/2.2ed1fd66.chunk.js.map": "/react-frontend/static/js/2.2ed1fd66.chunk.js.map",
+    "index.html": "/react-frontend/index.html",
+    "precache-manifest.bd2770f34bc9499318acb434b93912cf.js": "/react-frontend/precache-manifest.bd2770f34bc9499318acb434b93912cf.js",
+    "service-worker.js": "/react-frontend/service-worker.js",
+    "static/css/2.90b2f3bf.chunk.css.map": "/react-frontend/static/css/2.90b2f3bf.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/react-frontend/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.2ed1fd66.chunk.js.LICENSE.txt": "/react-frontend/static/js/2.2ed1fd66.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/react-frontend/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/react-frontend/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/react-frontend/static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18924be9.js",
+    "static/css/2.90b2f3bf.chunk.css",
+    "static/js/2.2ed1fd66.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.b3803e44.chunk.js"
+  ]
+}
